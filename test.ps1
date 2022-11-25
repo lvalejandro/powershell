@@ -1,1 +1,2 @@
 $PSVersionTable
+Write-Host "Hello"
