@@ -1,3 +1,9 @@
+#este pequeño proyecto se crea por divertimento mientras estudio verbos irregulares 
+#no guarda la resgistros, simplemente es para el aprendizaje de cierto código
+
+
+
+
 $data= @(
     #se accede con $data[n] y con $data[0].Infinitive si deseamos un elemento concreto
 
