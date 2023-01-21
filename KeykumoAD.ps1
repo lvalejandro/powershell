@@ -36,7 +36,7 @@ if ( Get-InstalledModule -Name Connect-AzureAD -ErrorAction Ignore)
 ### Fecha del script ######
 ## no existe comprobaciones.
 #los resultados que dará son los que existan después de esa fecha, es decir:
-# 2020-01-01 nos dará los sigin desde esa fecha hasta el día actual 
+# 2020-01-01 nos dará los signon desde esa fecha hasta el día actual 
 
 Write-Host "HOLA $nl"
 Write-Host "Los resultados que descargaremos  son los que indiques en el rango de fechas $nl" 
