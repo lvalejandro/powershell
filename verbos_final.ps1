@@ -1,5 +1,5 @@
 #este pequeño proyecto se crea por divertimento mientras estudio verbos irregulares 
-#no guarda la resgistros, simplemente es para el aprendizaje de cierto código
+#no guarda la registros, simplemente es para el aprendizaje de cierto código
 
 
 
