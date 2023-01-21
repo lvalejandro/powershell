@@ -1,2 +1,0 @@
-Select-String -Pattern "iden|prueba" 
-usamos | como "or"  para buscar con Select-String
